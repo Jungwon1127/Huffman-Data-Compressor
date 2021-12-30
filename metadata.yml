@@ -1,0 +1,12 @@
+---
+:id: 57031157
+:submitters:
+- :name: Jungwon Kim
+  :email: jkim2@hamilton.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-11-24 04:24:13.949841000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-11-23 20:24:13.949841000 Z
+:status: processed
+:score: 95.0
